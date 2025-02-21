@@ -1,0 +1,10 @@
+# Dataset and cache
+datasets
+data.yml
+.cache
+
+# Model parameters
+yolo*
+
+# Training and debug
+runs
