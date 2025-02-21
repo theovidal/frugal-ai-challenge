@@ -14,21 +14,25 @@ More information on the [dedicated page](https://frugalaichallenge.org/)
 - Performance: WIP
 - Resources consumption: WIP
 
-[Go to this task](./text-classification)
+[Dataset](https://huggingface.co/datasets/QuotaClimat/frugalaichallenge-text-train) - [Go to this task](./text-classification)
 
 ## 🪓 Detecting illegal deforestation
+
+Binary classification problem on audio data to detect the presence of chainsaws in forests and natural environments, indicating potential illegal logging activities.
 
 - Proposed model: 1D convolutional neural network with residual connections
 - Performance: 75% accuracy
 - Resources consumption: WIP
 
-[Go to this task](./audio-classification)
+[Dataset](https://huggingface.co/datasets/rfcx/frugalai) - [Go to this task](./audio-classification)
 
 ## 🔥 Classifying regions at risk of wildfires
+
+Detect smoke in photographs of forests, mountains... using bounding boxes.
 
 - Proposed model: YOLO image classifier
 - Performance: WIP
 - Resources consumption: WIP
 
-[Go to this task](./smoke-detection)
+[Dataset](https://huggingface.co/datasets/pyronear/pyro-sdis) - [Go to this task](./smoke-detection)
 
